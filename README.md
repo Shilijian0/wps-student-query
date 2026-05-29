@@ -1,0 +1,1 @@
+# wps-student-query
